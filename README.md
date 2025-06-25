@@ -1,16 +1,14 @@
-## Hi, I'm Gitika Saini
+## Hi, I'm Gitika!
 A junior studying Computer Engineering at Penn State University. I'm also pursuing minors in Cybersecurity and Economics.
 Take a look at [my portfolio](https://gitsika119.github.io/portfolio/)! It's also my favorite project :) 
 
 ### Skills
-
 #### Technical
 - Programming Languages: Python, C++, Java, JavaScript, HTML/CSS, SQL, Bash
 - Tools & Frameworks: Git, Linux, MySQL, SIEM tools, IDS systems, Jupyter, VS Code
 - Machine Learning: CNNs, RAG, Reinforcement Learning, Logistic and Linear regression, K-means
 - Cybersecurity: Network diagnostics, Google Cybersecurity Professional Certificate
 - Web Development: Front end development with HTML, CSS, JavaScript (Projects: ToDooze, Sidequesting)
-
 #### Design
 Tools: Figma, Canva, Adobe Illustrator
 
